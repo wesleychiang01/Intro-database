@@ -7,9 +7,6 @@ FROM table_name;*/
 CREATE DATABASE sql_table;
 DROP DATABASE sql_table;
 
-CREATE DATABASE sql_table;
-SHOW DATABASES;
-
 
 /*
 INT            -- Integer
